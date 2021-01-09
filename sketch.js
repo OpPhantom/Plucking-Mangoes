@@ -7,7 +7,7 @@ const Constraint = Matter.Constraint;
 var gameState;
 function preload()
 {
-	boyIMG = loadImage("images/person.png");
+	boyIMG = loadImage("person.png");
 }
 
 function setup() {
