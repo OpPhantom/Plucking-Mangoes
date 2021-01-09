@@ -1,6 +1,6 @@
 class Tree {
     constructor(x,y,w,h){
-        this.image = loadImage("images/tree.png");
+        this.image = loadImage("tree.png");
         this.x = x;
         this.y = y;
         this.w = w;
