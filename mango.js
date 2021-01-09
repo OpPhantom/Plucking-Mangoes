@@ -8,7 +8,7 @@ class Mango {
 
         this.body = Bodies.circle(x,y,40,options);
         World.add(world,this.body);
-        this.image = loadImage("images/mango.png");
+        this.image = loadImage("mango.png");
         this.r = 40;
         this.gameState = "attached";
     }
